@@ -1,4 +1,6 @@
-To Do Application
+# To Do Application
 
-A To-do List application created using React and Firebase
+A To-do List application created using React and Firebase. Material-UI is also used to create some designs.
+
+Description: This web-app allows you to add and track tasks that you need to do. You add them in and then remove them once completed.
 
