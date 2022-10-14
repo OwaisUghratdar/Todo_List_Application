@@ -6,3 +6,4 @@ Description: This web-app allows you to add and track tasks that you need to do.
 
 Updates: Working on adding new functionalities such as a "Sort By" toggle button that allows you to sort by newest or oldest todos
 
+To view this app and try it out click on this link: https://todo-app-cp-da580.web.app/
